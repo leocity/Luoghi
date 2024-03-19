@@ -33,14 +33,14 @@ $(document).ready(function () {
       
       let div = $(`<tr> 
         <td>
-        `+ row.Place_to_explore +` 
+        `+ row.Posto_da_visitare +` 
         </td>
         <td>
         `+ row.Commento +` 
        
         </td>
         <td>
-        `+ row.Image +`  
+        `+ row.Immagine +`  
        </td>
        
         </tr>`)
